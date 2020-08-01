@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'p `dot` jalali90 `at` gmail `dot` com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'p `dot` jalali90 `at` gmail `dot` com'
 - icon: github
   icon_pack: fab
   link: https://github.com/PeymanJalali
@@ -53,7 +53,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
