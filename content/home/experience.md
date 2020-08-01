@@ -18,27 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Quantitative Analytics Specialist"
+  company = "Wells Fargo & Company"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Charlotte"
+  date_start = "2019-07-25"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Quantitative Model Validation
+  * Identify and Mateigate Model risks
+  * Ensure fair and responsible usage of AI
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Data Science Intern"
+  company = "Proctor & Gamble"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Ohio"
+  date_start = "2018-05-15"
+  date_end = "2018-08-15"
+  description = """Built an internal assortment optimization model for P&G"""
 
+[[experience]]
+  title = "Data analyst"
+  company = "Securities & Exchange Organization of Iran"
+  company_url = ""
+  location = "Tehran"
+  date_start = "2013-10-01"
+  date_end = "2014-08-15"
+  description = """Conducted various data analysis tasks, such as implementation of various %machine learning models and data descriptions and visualizations, for the R&D team"""
 +++
