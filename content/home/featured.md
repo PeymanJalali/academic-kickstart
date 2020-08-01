@@ -26,10 +26,11 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "A Bayesian Approach to Joint Estimation of Multiple
+Graphical Models"
     category = ""
     publication_type = ""
-    author = ""
+    author = "Peyman Jalali, Kshitij Khare, George Michailidis"
   
 [design]
   # Toggle between the various page layout types.
