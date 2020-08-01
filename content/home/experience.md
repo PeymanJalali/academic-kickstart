@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Quantitative Model Validation
-  * Identify and Mateigate Model risks
+  * Identify and Mitigate Model key risks
   * Ensure fair and responsible usage of AI
   """
 
