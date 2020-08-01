@@ -47,7 +47,7 @@ featured: true
 #   icon: twitter
 
 url_pdf: "https://arxiv.org/pdf/1902.03651.pdf"
-url_code:https://github.com/PeymanJalali/BJNS/blob/master/BJNS.cpp
+url_code: "https://github.com/PeymanJalali/BJNS/blob/master/BJNS.cpp"
 url_dataset:
 url_poster:
 url_project:
