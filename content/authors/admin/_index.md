@@ -21,9 +21,9 @@ organizations:
 bio: Statistical Machine Learning, Fair and Responsible AI, Network Estimation, Dimension Reduction, Morcove Chain Monte Carlo (MCMC)
 
 interests:
-- Artificial Intelligence
 - Graphical Models
 - Bayesian Statistics
+- Fair AI
 - Statistical Learning 
 
 education:
