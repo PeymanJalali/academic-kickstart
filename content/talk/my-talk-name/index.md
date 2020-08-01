@@ -4,7 +4,7 @@
 title: "A Bayesian Approach for Joint Estimation of Multiple Networks"
 event:
 event_url:
-location:
+location: Informatics Institute, University of Florida
 address:
   street:
   city:
