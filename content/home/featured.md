@@ -29,7 +29,7 @@ subtitle = ""
     tag = """A Bayesian Approach to Joint Estimation of Multiple Graphical Models"""
     category = ""
     publication_type = ""
-    author = "Peyman Jalali, Kshitij Khare, George Michailidis"
+    author = "Peyman Jalali"
   
 [design]
   # Toggle between the various page layout types.
