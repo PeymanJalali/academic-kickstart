@@ -65,8 +65,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Peyman Jalali is a Quantitative Analytics Specialist at Decision Science and Artificial Intelligence team at Wells Fargo's Credit Model Risk organization. 
 
-Peyman Jalali is a Quantitative Analytics Specialist at Wells Fargo & company. His research interests include Fair and Responsible AI, Graphical Models, and Bayesian Statistics. He is currently a memeber of the Decision Science and Artificial Intelgence team at Wells Fargo's Credit Model Risk organization. 
+His research interests centers on developing robust and reliable Graphical models that are scalable to large data sets in various applications. He is also interested assessing fairness and explainability of AI/ML models, particularly in the financial industry, with the goal of developing ways to mitigate the risks associated with such issues. 
+
 
 
 
