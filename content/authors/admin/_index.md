@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'p `dot` jalali90 `at` gmail `dot` com'
+  link: p `dot` jalali90 `at` gmail `dot` com
 - icon: github
   icon_pack: fab
   link: https://github.com/PeymanJalali
