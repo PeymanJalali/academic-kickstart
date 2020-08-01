@@ -26,7 +26,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "A Bayesian Approach to Joint Estimation of Multiple Graphical Models"
+    tag = """A Bayesian Approach to Joint Estimation of Multiple Graphical Models"""
     category = ""
     publication_type = ""
     author = "Peyman Jalali, Kshitij Khare, George Michailidis"
