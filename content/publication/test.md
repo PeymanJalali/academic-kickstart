@@ -22,16 +22,17 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: """The problem of joint estimation of multiple graphical models from high dimensional data is ubiquitous
-in diverse fields including molecular biology, neuroscience and the social sciences. The
-main task is to formulate a methodology that allows us to borrow strength from the joint data to
-estimate edges that are common between any combination of the groups. To that end, we develop
-a Bayesian approach that decomposes the model parameters across the multiple graphical
-models into shared components across subsets of models and edges. This goal is achieved by
-constructing a novel multivariate prior distribution, coupled with a pseudo-likelihood that enables
-fast computations through a robust and efficient Gibbs sampling scheme. We establish strong posterior
-consistency for model selection and illustrate the efficacy of the proposed approach on both
-synthetic and real data."""
+summary: >
+    The problem of joint estimation of multiple graphical models from high dimensional data is ubiquitous
+    in diverse fields including molecular biology, neuroscience and the social sciences. The
+    main task is to formulate a methodology that allows us to borrow strength from the joint data to
+    estimate edges that are common between any combination of the groups. To that end, we develop
+    a Bayesian approach that decomposes the model parameters across the multiple graphical
+    models into shared components across subsets of models and edges. This goal is achieved by
+    constructing a novel multivariate prior distribution, coupled with a pseudo-likelihood that enables
+    fast computations through a robust and efficient Gibbs sampling scheme. We establish strong posterior
+    consistency for model selection and illustrate the efficacy of the proposed approach on both
+    synthetic and real data.
 
 tags: []
 categories: []
@@ -45,7 +46,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:https://arxiv.org/pdf/1902.03651.pdf
+url_pdf: "https://arxiv.org/pdf/1902.03651.pdf"
 url_code:
 url_dataset:
 url_poster:
