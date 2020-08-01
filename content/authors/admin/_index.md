@@ -49,8 +49,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/PeymanJalali
-- icon: cv
-  icon_pack: ai
+- icon: file
+  icon_pack: fas
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
