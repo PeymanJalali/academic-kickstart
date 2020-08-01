@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Qunatitative Analytics Specialist
+role: Quantitative Analytics Specialist
 
 # Organizations/Affiliations
 organizations:
@@ -45,21 +45,15 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link:
-- icon: google-scholar
-  icon_pack: ai
-  link: 
+  link: 'p `dot` jalali90 `at` gmail `dot` com'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/PeymanJalali
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,7 +65,7 @@ user_groups:
 - Visitors
 ---
 
-Peyman Jalali is a Qunatitative Analytics Specialist at Wells Fargo & company. His research interests include Fair and Responsible AI, Grpahical Models, and Bayesian Statistics. He is currently a memeber of the Decision Science and Artificial Intelgence team at Wells Fargo's Credit Model Risk organization. 
+Peyman Jalali is a Quantitative Analytics Specialist at Wells Fargo & company. His research interests include Fair and Responsible AI, Graphical Models, and Bayesian Statistics. He is currently a memeber of the Decision Science and Artificial Intelgence team at Wells Fargo's Credit Model Risk organization. 
 
 
 
