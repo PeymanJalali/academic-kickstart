@@ -52,8 +52,8 @@ social:
 - icon: file
   icon_pack: fas
   link: files/cv.pdf
-- icong: linkedin
-  icon_pack: fas
+- icon: linkedin
+  icon_pack: fab
   link: https://www.linkedin.com/in/peyman-jalali-1162a878/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
