@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Publication"
-authors: []
-date: 2020-08-01T13:35:12-05:00
+title: "A Bayesian Approach to Joint Estimation of Multiple GRaphical Models"
+authors: [Peyman Jalali, Kshitij Khare, George Michailidis]
+date: 2019-08-01T13:35:12-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,16 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: """The problem of joint estimation of multiple graphical models from high dimensional data is ubiquitous
+in diverse fields including molecular biology, neuroscience and the social sciences. The
+main task is to formulate a methodology that allows us to borrow strength from the joint data to
+estimate edges that are common between any combination of the groups. To that end, we develop
+a Bayesian approach that decomposes the model parameters across the multiple graphical
+models into shared components across subsets of models and edges. This goal is achieved by
+constructing a novel multivariate prior distribution, coupled with a pseudo-likelihood that enables
+fast computations through a robust and efficient Gibbs sampling scheme. We establish strong posterior
+consistency for model selection and illustrate the efficacy of the proposed approach on both
+synthetic and real data."""
 
 tags: []
 categories: []
@@ -36,7 +45,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf:https://arxiv.org/pdf/1902.03651.pdf
 url_code:
 url_dataset:
 url_poster:
