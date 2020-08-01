@@ -105,10 +105,10 @@ summary: >
     problem in statistics and machine learning literature. For solving this problem, Bayesian methods
     are of particular interest as they provide direct uncertainty quantification of the model parameters
     through the posterior distribution which allows us to perform hypotheses testing and/or construct
-    confidence intervals for the parameters of interest. However, estimating a medium size (10001000)
-    precision matrix, using the fastest existing Bayesian method, takes over 285 days and over 50 GigaBytes
+    confidence intervals for the parameters of interest. However, estimating a medium size (1000 by 1000)
+    precision matrix, using the fastest existing Bayesian method, takes over 285 days and over 50 Gb
     of memory. To address this weakness, we develop a Bayesian methodology which does
-    the same job in 45 minutes and using less than 0.4 GigaBytes of memory. In addition to establishing
+    the same job in 45 minutes and using less than 0.4 Gb of memory. In addition to establishing
     model selection and estimation consistency under high-dimensional scaling, we demonstrate
     through extensive numerical studies that our model is computationally more accurate than existing
     Bayesian and frequentist methods.
