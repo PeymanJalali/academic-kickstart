@@ -12,7 +12,7 @@ summary: >
     constructing a novel multivariate prior distribution, coupled with a pseudo-likelihood that enables
     fast computations through a robust and efficient Gibbs sampling scheme. We establish strong posterior
     consistency for model selection and illustrate the efficacy of the proposed approach on both
-    synthetic and real data."""
+    synthetic and real data.
 
 authors: [Peyman Jalali, Kshitij Khare, George Michailidis]
 tags: []
