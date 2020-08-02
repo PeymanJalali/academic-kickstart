@@ -26,10 +26,12 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * Quantitative model validation
-  * Identify and mitigate key model risks
-  * Ensure fair and responsible usage of AI
+ * Researched and implemented various measures to assess machine learning fairness and bias, using Independence, Separation, and Sufficiency tests. Identified several models with fairness biases against certain demographics and recommended appropriate remediation recommendations to avoid significant regulatory scrutiny and potential reputational risks for Wells Fargo
+* Responsible for validating modeling framework, methodology, procedures and code library to support various marketing and fraud models at Wells Fargo; key deliverables include, resolution of all regulatory issues, standardizing code and validation procedures and building reproducible python workflows to accelerate team's performance
+
+  #* Quantitative model validation
+  #* Identify and mitigate key model risks
+  #* Ensure fair and responsible usage of AI
   """
 
 [[experience]]
@@ -51,7 +53,7 @@ date_format = "Jan 2006"
   date_start = "2013-10-01"
   date_end = "2014-08-15"
   description = """
- * Predicted the future behaviour of market indexes using various Time Series Models such as Cointegration Analysis, ARIMA and, to a degree, Arch and Garch models
+ * Predicted the future behaviour of market indexes using various Time Series Models such as Cointegration Analysis, ARIMA and Arch and Garch models
  * Conducted various data analysis tasks, such as implementation of various machine learning models and data descriptions and visualizations, for the R&D team 
   """
 +++
