@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "Ohio"
   date_start = "2018-05-15"
   date_end = "2018-08-15"
-  description = """"
+  description = """
   * Utilized statistical model building techniques such as Generalized Additive Modes (GAM) and Quadratic Programming to build an internal assortment optimization tool for P&G which, if implemented, can potentially save upto half a million USD for the company
 * Provided feedback and suggestions to the Test and Control team on ways to study the effectiveness of different advertising campaigns using A/B testing 
 """
@@ -53,6 +53,5 @@ date_format = "Jan 2006"
   description = """
  * Predicted the future behaviour of market indexes using various Time Series Models such as Cointegration Analysis, ARIMA and, to a degree, Arch and Garch models
  * Conducted various data analysis tasks, such as implementation of various machine learning models and data descriptions and visualizations, for the R&D team 
-
   """
 +++
