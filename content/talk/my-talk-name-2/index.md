@@ -4,13 +4,13 @@
 title: "An Introduction to Graphical Lasso"
 event:
 event_url:
-location:
+location: Informatics Institute, University of Florida
 address:
   street:
-  city:
+  city: Gainesville
   region:
   postcode:
-  country:
+  country: USA
 summary:
 abstract:
 
