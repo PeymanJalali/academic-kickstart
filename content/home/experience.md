@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   description = """"
   * Utilized statistical model building techniques such as Generalized Additive Modes (GAM) and Quadratic Programming to build an internal assortment optimization %tool for P&G which, if implemented, can potentially save upto half a million USD for the company
 * Provided feedback and suggestions to the Test and Control team on ways to study %the effectiveness of different advertising campaigns using A/B testing 
-
+"""
 [[experience]]
   title = "Data analyst"
   company = "Securities & Exchange Organization of Iran"
