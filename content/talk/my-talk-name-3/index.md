@@ -4,19 +4,19 @@
 title: "Functional Linear Regression"
 event:
 event_url:
-location:
+location: Shahid Beheshti University
 address:
   street:
-  city:
+  city: Tehran
   region:
   postcode:
-  country:
+  country: Iran
 summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-08
+date: 2013-01
 #date_end: 2020-08-01T16:42:05-05:00
 all_day: false
 
