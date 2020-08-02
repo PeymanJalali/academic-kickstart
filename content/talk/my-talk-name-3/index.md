@@ -7,10 +7,10 @@ event_url:
 location: Shahid Beheshti University
 address:
   street:
-  city: Tehran
+  city: 
   region:
   postcode:
-  country: Iran
+  country: 
 summary:
 abstract:
 
