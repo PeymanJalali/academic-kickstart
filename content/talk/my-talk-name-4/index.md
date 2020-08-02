@@ -7,10 +7,10 @@ event_url:
 location: University of Kurdistan
 address:
   street:
-  city: Sanandaj
+  city: 
   region:
   postcode:
-  country: Iran
+  country: 
 summary:
 abstract:
 
