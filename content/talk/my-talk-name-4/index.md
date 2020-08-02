@@ -1,23 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My Talk Name"
+title: "Heterogeneous Poisson Random Variable"
 event:
 event_url:
-location:
+location: University of Kurdistan
 address:
   street:
-  city:
+  city: Sanandaj
   region:
   postcode:
-  country:
+  country: Iran
 summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-08-01T16:42:05-05:00
-date_end: 2020-08-01T16:42:05-05:00
+date: 2018-08
+#date_end: 2020-08-01T16:42:05-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
