@@ -7,10 +7,10 @@ event_url:
 location: Informatics Institute, University of Florida
 address:
   street:
-  city: Gainesville
+  city: 
   region:
   postcode:
-  country: USA
+  country: 
 summary:
 abstract:
 
