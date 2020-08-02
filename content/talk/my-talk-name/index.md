@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2018-12-01T2:00pm
-#date_end: 
+date: 2020-08-01T16:42:05-05:00
+date_end: 2020-08-01T16:42:05-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-#publishDate:
+publishDate: 2020-08-01T16:42:05-05:00
 
 authors: []
 tags: []
