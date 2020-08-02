@@ -25,13 +25,8 @@ date_format = "Jan 2006"
   date_start = "2019-07-25"
   date_end = ""
   description = """
-  Responsibilities include:
  * Researched and implemented various measures to assess machine learning fairness and bias, using Independence, Separation, and Sufficiency tests. Identified several models with fairness biases against certain demographics and recommended appropriate remediation recommendations to avoid significant regulatory scrutiny and potential reputational risks for Wells Fargo
 * Responsible for validating modeling framework, methodology, procedures and code library to support various marketing and fraud models at Wells Fargo; key deliverables include, resolution of all regulatory issues, standardizing code and validation procedures and building reproducible python workflows to accelerate team's performance
-
-  #* Quantitative model validation
-  #* Identify and mitigate key model risks
-  #* Ensure fair and responsible usage of AI
   """
 
 [[experience]]
