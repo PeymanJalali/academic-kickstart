@@ -24,7 +24,7 @@ summary: >
     Sparse estimation of the precision matrix under high-dimensional scaling constitutes a canonical
     problem in statistics and machine learning literature. For solving this problem, Bayesian methods
     are of particular interest as they provide direct uncertainty quantification of the model parameters
-    through the posterior distribution which allows us to perform hypotheses testing and/or construct
+    through the posterior distribution which allows us to perform hypothesis testing and/or construct
     confidence intervals for the parameters of interest. However, estimating a medium size (1000 by 1000)
     precision matrix, using the fastest existing Bayesian method, takes over 285 days and over 50 Gb
     of memory. To address this weakness, we develop a Bayesian methodology which does
